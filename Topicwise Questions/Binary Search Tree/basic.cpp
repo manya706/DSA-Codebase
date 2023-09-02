@@ -50,6 +50,15 @@ void levelPrint(struct TreeNode* root, int l){
         levelPrint(root->right, l--);
     }
 }
+void rightview(struct TreeNode* root, int* max_l, int curr_l){
+    if(!root) return;
+    if(*max_l < curr_l){
+        cout<<root->val<<" ";
+        *max_l = curr_l;
+    }
+    rightview(root->right, max_l,curr_l+1);
+    rightview(root->left, max_l,curr_l+1);
+}
 int main(){
     struct TreeNode* root = NULL;
   
@@ -66,4 +75,7 @@ int main(){
     levelPrint(root,2);
     cout<<endl;
     printLeaves(root);
+    cout<<endl;
+    int max_l =0;
+    rightview(root,&max_l,1);
 }
