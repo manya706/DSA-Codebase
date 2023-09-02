@@ -56,8 +56,18 @@ void rightview(struct TreeNode* root, int* max_l, int curr_l){
         cout<<root->val<<" ";
         *max_l = curr_l;
     }
+    
     rightview(root->right, max_l,curr_l+1);
     rightview(root->left, max_l,curr_l+1);
+}
+void leftview(struct TreeNode* root, int* max_r, int curr_l){
+    if(!root) return;
+    if(*max_r < curr_l){
+        cout<<root->val<<" ";
+        *max_r = curr_l;
+    }
+    leftview(root->left, max_r,curr_l+1);
+    leftview(root->right, max_r,curr_l+1);
 }
 int main(){
     struct TreeNode* root = NULL;
@@ -70,6 +80,7 @@ int main(){
     insert(root, 70);
     insert(root, 60);
     insert(root, 80);
+  
 
     cout<<height(root)<<endl;
     levelPrint(root,2);
@@ -78,4 +89,7 @@ int main(){
     cout<<endl;
     int max_l =0;
     rightview(root,&max_l,1);
+    cout<<endl;
+    int max_r = 0;
+    leftview(root,&max_r,1);
 }
