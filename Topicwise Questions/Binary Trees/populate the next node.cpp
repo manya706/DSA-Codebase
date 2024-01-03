@@ -46,8 +46,8 @@ Node* connect(Node* root) {
             Node* curr = q.front(); q.pop();
             
             // If the previous node of the current node exist
-            if(prev)
-                prev->next = curr;
+            // if(prev)
+                // prev->next = curr;
             
             // If the left of the current node exist
             if(curr->left)
