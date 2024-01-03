@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithm
+# My coding playground!
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice.
 
 ## Directory Structure
