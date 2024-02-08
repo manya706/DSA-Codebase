@@ -21,5 +21,28 @@
 #include<map>
 using namespace std;
 typedef long long int ll;
+int main(){
+    int n,x;
+    cin>>n>>x;
+    vector<ll> weights;
+    for(int i=0;i<n;i++){
+        ll t;
+        cin>>t;
+        weights.push_back(t);
+    }
+    sort(weights.begin(),weights.end());
+    int left = 0, right = n - 1;
+    int count = 0;
 
+    while (left <= right) {
+        if (weights[left] + weights[right] <= x) {
+            left++;
+            right--;
+        } else {
+            right--;
+        }
+        count++;
+    }
+    cout<<count;
+}
 
