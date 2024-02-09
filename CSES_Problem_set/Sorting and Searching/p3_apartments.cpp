@@ -3,10 +3,10 @@
 // Input
 // The first input line has three integers n, m, and k: the number of applicants, the number of apartments, 
 // and the maximum allowed difference.
-// The next line contains n integers a_1, a_2, \ldots, a_n: the desired apartment size of each applicant. 
+// The next line contains n integers a_1, a_2, .. a_n: the desired apartment size of each applicant. 
 // If the desired size of an applicant is x, he or she will accept any apartment whose size is between x-k
 //  and x+k.
-// The last line contains m integers b_1, b_2, \ldots, b_m: the size of each apartment.
+// The last line contains m integers b_1, b_2, .. b_m: the size of each apartment.
 // Output
 // Print one integer: the number of applicants who will get an apartment.
 // Constraints
