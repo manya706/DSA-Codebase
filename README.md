@@ -3,11 +3,15 @@ Welcome to my personal repository for data structures and algorithms! This repos
 
 ## Directory Structure
 - .vscode: Configuration files for Visual Studio Code.
-- 100_DAYS_OF_CODE: Code snippets and solutions related to my "100 Days of Code" challenge.
+- 100_DAYS_OF_CODE: Code snippets and solutions related to my "100 Days of Code" challenge. (interview prep so didn't follow through)
 - CSES_Problem_set/Introductory_problems: Solutions to introductory problems from the CSES Problem Set.
-- GFG Problems: Implementations of algorithms and data structures related to problems on GeeksforGeeks.
-
-
+- GFG Problems: Implementations of algorithms and data structures related to problems on GeeksforGeeks. (Hard, Medium, Easy) [Majorly used for interview prep @Goldman Sach, @Microsoft & @Flipkart]
+- TLE-SHEET: Working on getting better at competitive programming.
+  
+## Profiles
+- LeetCode : [https://leetcode.com/manya721/]
+- GFG : https: [//auth.geeksforgeeks.org/user/sharmamanya721]
+- Codeforces : [https://codeforces.com/profile/manya_sharma0706]
 Feel free to explore the folders and files if you are interested in my coding journey and the solutions I've come up with for different problems.
 I plan to add more!
 ## Usage
