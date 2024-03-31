@@ -12,7 +12,6 @@
 </div>
 
 
-
 ## Directory Structure
 - .vscode: Configuration files for Visual Studio Code.
 - 100_DAYS_OF_CODE: Code snippets and solutions related to my "100 Days of Code" challenge. (interview prep so didn't follow through)
