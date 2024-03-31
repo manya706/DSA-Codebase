@@ -7,12 +7,17 @@ Welcome to my personal repository for data structures and algorithms! This repos
 - CSES_Problem_set/Introductory_problems: Solutions to introductory problems from the CSES Problem Set.
 - GFG Problems: Implementations of algorithms and data structures related to problems on GeeksforGeeks. (Hard, Medium, Easy) [Majorly used for interview prep @Goldman Sach, @Microsoft & @Flipkart]
 - TLE-SHEET: Working on getting better at competitive programming.
-  
-## Profiles
-- LeetCode : [https://leetcode.com/manya721/]
-- GFG : https: [//auth.geeksforgeeks.org/user/sharmamanya721]
-- Codeforces : [https://codeforces.com/profile/manya_sharma0706]
+
+
 Feel free to explore the folders and files if you are interested in my coding journey and the solutions I've come up with for different problems.
 I plan to add more!
+
+## Profiles
+- LeetCode : https://leetcode.com/manya721/
+- GFG : https://auth.geeksforgeeks.org/user/sharmamanya721
+- Codeforces : https://codeforces.com/profile/manya_sharma0706
+  
+![image](https://github.com/manya706/Data-Structures-and-Algorithm/assets/96016153/e33f75b8-63c3-4c80-96ff-b58ab89740bb)
+
 ## Usage
 This repository is for personal use only. I use it to track my progress, experiment with different algorithms, and improve my coding skills. If you stumble upon this repository and find it helpful, that's great! Feel free to use it as inspiration for your own learning journey.
