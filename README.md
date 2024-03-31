@@ -1,6 +1,6 @@
 # My coding playground!
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
+<div style="display: grid; grid-template-columns: 1/fr 1/fr;">
   <div>
     <p align="left">Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice.</p>
   </div>
