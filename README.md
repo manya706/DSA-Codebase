@@ -1,6 +1,6 @@
 # <p align="center"> 🚀 My coding playground! 🚀</p>
 
-![Static Badge](https://img.shields.io/badge/competitive_coding-red) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue)![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=flat)
+![Static Badge](https://img.shields.io/badge/competitive_coding-red) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=flat)
 
 
 
