@@ -1,5 +1,5 @@
 # <p align="center"> ![gif](https://tenor.com/blOPc.gif) My coding playground! 
-<p align="center"> Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize all my wuestions and implement various algorithms and data structures for personal learning and practice. </p>
+<p align="center"><i> Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize all my wuestions and implement various algorithms and data structures for personal learning and practice. </i></p>
 
 
 ![Static Badge](https://img.shields.io/badge/competitive_coding-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=codeforces)
