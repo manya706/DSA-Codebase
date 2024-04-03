@@ -6,7 +6,7 @@
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice. 
 
 
-## Directory Structure
+## 🧩 Directory Structure
 - .vscode: Configuration files for Visual Studio Code.
 - 100_DAYS_OF_CODE: Code snippets and solutions related to my "100 Days of Code" challenge. (interview prep so didn't follow through)
 - CSES_Problem_set/Introductory_problems: Solutions to introductory problems from the CSES Problem Set.
@@ -17,12 +17,12 @@ Welcome to my personal repository for data structures and algorithms! This repos
 Feel free to explore the folders and files if you are interested in my coding journey and the solutions I've come up with for different problems.
 I plan to add more!
 
-## Profiles
+## 👤 Profiles
 - LeetCode : https://leetcode.com/manya721/
 - GFG : https://auth.geeksforgeeks.org/user/sharmamanya721
 - Codeforces : https://codeforces.com/profile/manya_sharma0706
   
 ![image](https://github.com/manya706/Data-Structures-and-Algorithm/assets/96016153/e33f75b8-63c3-4c80-96ff-b58ab89740bb)
 
-## Usage
+## 🗒️ Usage
 This repository is for personal use only. I use it to track my progress, experiment with different algorithms, and improve my coding skills. If you stumble upon this repository and find it helpful, that's great! Feel free to use it as inspiration for your own learning journey.
