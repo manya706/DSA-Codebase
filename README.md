@@ -2,7 +2,8 @@
 <p align="center"> Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize all my wuestions and implement various algorithms and data structures for personal learning and practice. </p>
 
 
-<p align="center"> ![Static Badge](https://img.shields.io/badge/competitive_coding-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=codeforces)
+<p align="center"> 
+![Static Badge](https://img.shields.io/badge/competitive_coding-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=codeforces)
 ![Static Badge](https://img.shields.io/badge/Leet-Code-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/GEEKSFORGEEKS--green?style=for-the-badge&label=GEEKSFORGEEKS&labelColor=green)
 </p>
 
