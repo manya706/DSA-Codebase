@@ -1,6 +1,8 @@
 # <p align="center"> 🚀 My coding playground! 🚀</p>
 
-![Static Badge](https://img.shields.io/badge/competitive_coding-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/competitive_coding-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=codeforces)
+![Static Badge](https://img.shields.io/badge/Leet-Code-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/GEEKSFORGEEKS--green?style=for-the-badge&label=GEEKSFORGEEKS&labelColor=green)
+
 
 
 
