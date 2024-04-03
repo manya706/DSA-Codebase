@@ -7,10 +7,10 @@
 <img align = "right" alt = coding height = "360px" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIxNjg5NzksIm5iZiI6MTcxMjE2ODY3OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAzVDE4MjQzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczZjA3NDhlMzA3OTkxY2NhNGNjN2UxZjk5NmVhNmFiOGJmNmQ4OGU1NWQyOTI0ZjBjYjM3YjI3YzdkMmRhYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lOiM_XqhvN8ypvFofoPI4YJ2eSMNvkKS-tOjPvMGuBY">
 
 
-<div style = "height = "400px";">
+<div style = "height = "400px"; align = "left";">
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice. 
 </div>
-##
+
 
 ## 🧩 Directory Structure
 - .vscode: Configuration files for Visual Studio Code.
