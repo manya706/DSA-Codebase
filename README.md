@@ -1,4 +1,4 @@
-# <p align="center"> ![gif](https://tenor.com/en-IN/view/rocket-joypixels-flying-up-missile-skyrocket-gif-17554248) My coding playground! 
+# <p align="center"> ![gif](https://tenor.com/blOPc.gif) My coding playground! 
 <p align="center"> Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize all my wuestions and implement various algorithms and data structures for personal learning and practice. </p>
 
 
