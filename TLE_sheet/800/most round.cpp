@@ -17,12 +17,9 @@ using namespace std;
 #define imin INT_MIN
 #define exp 1e9
 void solve(){
-    int a,b,c,d;
-    cin>>a>>b>>c>>d;
-    if(b>d || c-a>d-b)
-    	cout<<-1<<endl;
-    else
-    	cout<<2*(d-b)+a-c<<endl;
+    string n;
+    cin>>n;
+    cout<<9*(sz(n)-1)+n[0]-'0'<<endl;
 }
 
 int32_t main()
