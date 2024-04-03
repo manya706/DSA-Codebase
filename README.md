@@ -1,6 +1,7 @@
 # <p align="center"> 🚀 My coding playground! 🚀</p>
 
-![Static Badge](https://img.shields.io/badge/competitive_coding-red) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue)
+![Static Badge](https://img.shields.io/badge/competitive_coding-red) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue)![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=flat)
+
 
 
 Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize and implement various algorithms and data structures for personal learning and practice. 
