@@ -11,11 +11,11 @@
 
 
 ## 🧩 Directory Structure
-- .vscode: Configuration files for Visual Studio Code.
-- 100_DAYS_OF_CODE: Code snippets and solutions related to my "100 Days of Code" challenge. (interview prep so didn't follow through)
-- CSES_Problem_set/Introductory_problems: Solutions to introductory problems from the CSES Problem Set.
-- GFG Problems: Implementations of algorithms and data structures related to problems on GeeksforGeeks. (Hard, Medium, Easy) [Majorly used for interview prep @Goldman Sach, @Microsoft & @Flipkart]
-- TLE-SHEET: Working on getting better at competitive programming.
+- .vscode: Configuration files for Visual Studio Code with code template.
+- [100_DAYS_OF_CODE](): Code snippets and solutions related to my "100 Days of Code" challenge. (interview prep so didn't follow through)
+- [CSES_Problem_set/Introductory_problems](): Solutions to introductory problems from the CSES Problem Set.
+- [GFG Problems](): Implementations of algorithms and data structures related to problems on GeeksforGeeks. (Hard, Medium, Easy) [Majorly used for interview prep @Goldman Sach, @Microsoft & @Flipkart]
+- [TLE-SHEET](): Working on getting better at competitive programming.
 
 
 Feel free to explore the folders and files if you are interested in my coding journey and the solutions I've come up with for different problems.
