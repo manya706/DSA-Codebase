@@ -1,4 +1,4 @@
-# <p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=EF3DF7&random=false&width=475&height=60&lines=My+Coding+Playground+!)](https://git.io/typing-svg)
+# <p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=EF3DF7&random=false&width=525&height=60&lines=My+Coding+Playground+!)](https://git.io/typing-svg)
 <p align="center"><i> Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize all my wuestions and implement various algorithms and data structures for personal learning and practice. </i></p>
 
 
