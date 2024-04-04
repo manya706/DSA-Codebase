@@ -1,7 +1,9 @@
 {
     "cmake.configureOnOpen": false,
     "files.associations": {
+        "Makefile": "makefile",
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "functional": "cpp"
     }
 }
