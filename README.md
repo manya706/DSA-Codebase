@@ -27,6 +27,6 @@ I plan to add more!
 - Codeforces : https://codeforces.com/profile/manya_sharma0706
   
 ![image](https://github.com/manya706/Data-Structures-and-Algorithm/assets/96016153/e33f75b8-63c3-4c80-96ff-b58ab89740bb)
-![Manya's Leetcode Stats](https://leetcard.jacoblin.cool/manya721?theme=light&font=Alegreya)
+![Manya's Leetcode Stats](https://leetcard.jacoblin.cool/manya721?theme=dark&font=Alegreya)
 ## 🗒️ Usage
 This repository is for personal use only. I use it to track my progress, experiment with different algorithms, and improve my coding skills. If you stumble upon this repository and find it helpful, that's great! Feel free to use it as inspiration for your own learning journey.
