@@ -1,1 +1,0 @@
-# Synchromizing my leetcode questions
