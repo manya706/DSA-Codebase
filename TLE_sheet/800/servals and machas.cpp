@@ -27,7 +27,7 @@ void solve(){
     scanv(arr);
     for(int i=0;i<n;i++){
         for(int j=i+1;j<n;j++){
-            if(gcd(arr[i],arr[j])<n){
+            if(gcd(arr[i],arr[j])<=2){
                 yes;
                 return;
             }
