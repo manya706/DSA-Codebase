@@ -1,3 +1,13 @@
+// Iterates through four possible moves for the knight, considering 
+// both possible directions (up/down and left/right). For each direction, 
+// it calculates the new position the knight would move to and adds it to 
+// the respective set (k for the king, q for the queen). It calculates these 
+// positions by adding a to xk (for horizontal movement) and b to yk 
+// (for vertical movement), and vice versa.
+// Then it counts the number of common positions between sets k and q, i.e.,
+// positions where the knight can attack both the king and the queen simultaneously.
+
+
 #include <bits/stdc++.h>
 using namespace std;
 #define pb push_back
