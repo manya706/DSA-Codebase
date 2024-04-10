@@ -4,6 +4,7 @@
         "Makefile": "makefile",
         "iostream": "cpp",
         "vector": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "ostream": "cpp"
     }
 }
