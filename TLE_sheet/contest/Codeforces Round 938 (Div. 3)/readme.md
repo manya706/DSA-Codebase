@@ -1,6 +1,6 @@
 ## Codeforces Round 983 (Div. 3)
 
-Super happy for get **596** rank!! 
+Super happy that I got **596** rank!! 
 After completing TLE Sheet *800 rated problem was easily able to crack the first question in 3mins. 
 Onwards and Upwards!!
 ##
