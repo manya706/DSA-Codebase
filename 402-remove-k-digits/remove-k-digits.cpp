@@ -20,6 +20,7 @@ public:
         }
         reverse(ans.begin(),ans.end());
         int i=0;
+        // removing leading zeroes
         while(ans[i]=='0'){
             i++;
         }
