@@ -1,7 +1,7 @@
 # <p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F062F7&random=false&width=525&height=65&lines=My+Coding+Playground+!)](https://git.io/typing-svg)
 <p align="center"><i> Welcome to my personal repository for data structures and algorithms! This repository serves as my coding playground, where I organize all my questions and implement various algorithms and data structures for personal learning and practice. </i></p>
 
-## NOT MEANT TO BE COPIED BY JAHNVI SAHNI! 
+## NOT MEANT TO BE COPIED! 
 ![Static Badge](https://img.shields.io/badge/competitive_coding-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Data-Structures-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Algorithms-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=codeforces)
 ![Static Badge](https://img.shields.io/badge/Leet-Code-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/GEEKSFORGEEKS--green?style=for-the-badge&label=GEEKSFORGEEKS&labelColor=green)
 
