@@ -23,7 +23,6 @@ I plan to add more!
 ## 👤 Profiles
 - LeetCode : https://leetcode.com/manya721/
 - GFG : https://auth.geeksforgeeks.org/user/sharmamanya721
-- Codeforces : https://codeforces.com/profile/manya_sharma0706
   
 ![image](https://github.com/manya706/Data-Structures-and-Algorithm/assets/96016153/e33f75b8-63c3-4c80-96ff-b58ab89740bb)
 ![Manya's Leetcode Stats](https://leetcard.jacoblin.cool/manya721?theme=dark&font=Alegreya)
