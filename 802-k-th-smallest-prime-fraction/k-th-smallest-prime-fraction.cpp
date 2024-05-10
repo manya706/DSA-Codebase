@@ -6,7 +6,7 @@ public:
         // most optimized : binary search
         vector<int> v;
         int n = arr.size();
-        double l=0, r=n-1, mid;
+        double l=0, r=1, mid;
         
         while(l<=r){
             mid = l + (r-l)/2;
