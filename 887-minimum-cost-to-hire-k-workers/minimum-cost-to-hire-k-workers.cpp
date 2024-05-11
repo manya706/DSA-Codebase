@@ -1,7 +1,7 @@
 class Solution {
 public:
     double mincostToHireWorkers(vector<int>& quality, vector<int>& wage, int k) {
-        int n= quality.size();
+        const int n= quality.size();
         
         vector<vector<double>> wage2Quality(n, vector<double>(2));
         
