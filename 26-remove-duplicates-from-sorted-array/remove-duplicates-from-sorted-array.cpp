@@ -12,12 +12,7 @@ public:
             ind++;
         }
         nums.erase(nums.begin()+ind, nums.end());
-        // if(ind != n){
-        //     while(ind!=n){
-        //         nums.erase(nums.begin()+ind);
-        //         ind++;
-        //     }
-        // }
+    
         return nums.size();
     }
 };
