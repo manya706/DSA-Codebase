@@ -12,8 +12,6 @@
 class Solution {
 public:
     bool evaluateTree(TreeNode* root) {
-        // 2--> or
-        // 3--> and
         if(root->val == 0 || root->val==1){
             return root->val==1; // (false and true case only)
         }
