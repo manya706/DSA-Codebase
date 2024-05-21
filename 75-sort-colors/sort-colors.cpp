@@ -2,11 +2,7 @@ class Solution {
 public:
 
     void sortColors(vector<int>& nums) {
-        //  this is like sorting 0,1,2
-        // can using direct sort vector methos
-        //  or use two pointers
-        // sort(nums.begin(),nums.end());
-    //    lets just count number of 0,1 and 2
+       
         int cnt0=0, cnt1=0, cnt2=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==0) cnt0++;
