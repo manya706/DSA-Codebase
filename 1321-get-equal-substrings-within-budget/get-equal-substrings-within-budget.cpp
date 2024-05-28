@@ -7,7 +7,6 @@ public:
         for(int i=0;i<s.length();i++){
             m += abs((s[i]) - (t[i]));
             // cout<<m<<endl;
-            
             while(m>maxCost){
                 m -= abs((s[cs]) - (t[cs]));
                 cs++;
