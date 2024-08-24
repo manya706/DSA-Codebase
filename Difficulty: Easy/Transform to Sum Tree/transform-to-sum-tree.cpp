@@ -107,19 +107,21 @@ class Solution {
   
     // Convert a given tree to a tree where every node contains sum of values of
     // nodes in left and right subtrees in the original tree
-    int dfs(Node* root){
-        if(root==NULL) return 0;
-        int l = dfs(root->left);
-        int r = dfs(root->right);
-        int tmp = root->data;
-        root->data = l+r;
-        tmp+= root->data;
-        return tmp;
+    void sum(Node* root, int &ans){
+        if(!root) return ;
+        sum(root->left,ans);
+        ans+= root->data;
+        sum(root->right,ans);
     }
     void toSumTree(Node *node)
     {
         // Your code here
-        dfs(node);
+        if(!node) return;
+        int s = -(node->data);
+        sum(node,s);
+        node->data = s;
+        toSumTree(node->left);
+        toSumTree(node->right);
     }
 };
 
