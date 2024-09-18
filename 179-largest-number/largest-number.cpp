@@ -10,7 +10,7 @@ public:
         });
         if(ans[0]=="0") return "0";
         string res;
-        for(string &num:ans){
+        for(const string &num:ans){
             res+=num;
         }
         return res;
