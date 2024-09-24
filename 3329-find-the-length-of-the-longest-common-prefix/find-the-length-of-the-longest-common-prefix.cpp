@@ -5,7 +5,7 @@ public:
 
     TrieNode() {
         isCompleteWord = false; // when the word is complete (mark that node as true)
-        memset(children, 0, sizeof(children)); // for 26 possible Childrens (for next letter)
+        memset(children, 0, sizeof(children)); // for 10 possible Childrens (for next letter)
     }
 };
 
@@ -53,3 +53,9 @@ public:
         return maxlen;
     }
 };
+static const auto ms = []() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return 0;
+}();
