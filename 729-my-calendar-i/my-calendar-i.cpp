@@ -1,3 +1,9 @@
+static const auto ms = []() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return 0;
+}();
 class MyCalendar {
 public:
     vector<pair<int,int>> bookings;
@@ -15,12 +21,7 @@ public:
         return true;
     }
 };
-static const auto ms = []() {
-    std::ios::sync_with_stdio(false);
-    std::cin.tie(nullptr);
-    std::cout.tie(nullptr);
-    return 0;
-}();
+
 
 /**
  * Your MyCalendar object will be instantiated and called as such:
