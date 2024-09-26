@@ -1,8 +1,7 @@
 class MyCalendar {
 public:
     vector<pair<int,int>> bookings;
-    MyCalendar() {
-    }
+    MyCalendar() {}
     
     bool book(int start, int end) {
         for(auto const& pair: bookings){
