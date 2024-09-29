@@ -1,8 +1,6 @@
 class AllOne {
 public:
-    AllOne() {
-        mp.clear();
-    }
+    AllOne() {}
     
     void inc(string key) {
         int n = mp[key];
