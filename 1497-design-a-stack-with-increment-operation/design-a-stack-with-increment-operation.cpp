@@ -12,12 +12,10 @@ public:
             return;
         }
         v.push_back(x);
-        
         n++;
     }
     
     int pop() {
-        
         if(n==0) return -1;
         int t = v[n-1];
         v.erase(v.begin()+n);
