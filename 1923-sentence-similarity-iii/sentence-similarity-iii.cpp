@@ -28,4 +28,9 @@ public:
         while(e<n2 && w1[n1-e-1]==w2[n2-e-1]) e++;
         return s+e >= n2;
     }
-};
+};static const auto ms = []() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return 0;
+}();
