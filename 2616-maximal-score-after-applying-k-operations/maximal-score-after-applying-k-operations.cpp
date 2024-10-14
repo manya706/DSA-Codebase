@@ -9,11 +9,9 @@ public:
         }
         while(k>0){
             ans += pq.top();
-            cout<<pq.top()<<" ";
             int t = pq.top();
             pq.pop();
             pq.push((t+3-1)/3);
-            cout<<t/3<<" ";
             k--;
         }
         return ans;
