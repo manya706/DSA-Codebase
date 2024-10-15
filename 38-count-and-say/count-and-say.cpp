@@ -11,7 +11,7 @@ public:
                 cnt++;
                 i++;
             }
-            ans+=to_string(cnt)+string(1,c); // to convert char to string[string(1,c)]
+            ans+=to_string(cnt)+string(1,c);
         }
         return ans;
     }
