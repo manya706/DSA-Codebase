@@ -14,7 +14,6 @@ public:
         return maxSplit;
     }
     int maxUniqueSplit(string s) {
-        // backtracking and set
         int n = s.length();
         unordered_set<string> st;
         return helper(s,0,st,n);
