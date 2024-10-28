@@ -1,7 +1,6 @@
 class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
-        // sort(nums.begin(), nums.end());
         set<long long> numset;
         for(int i:nums) numset.insert(i);
         int ans=0;
