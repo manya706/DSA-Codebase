@@ -3,9 +3,8 @@ public:
     string makeFancyString(string s) {
         string ans = "";
         int n = s.length();
-        int c =0;
         ans.push_back(s[0]);
-        c++;
+        int c=1;
         for(int i=1;i<n;i++){
             if(s[i]==ans.back()){
                 c++;
